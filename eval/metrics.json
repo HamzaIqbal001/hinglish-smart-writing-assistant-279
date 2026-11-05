@@ -1,0 +1,13 @@
+{
+  "transliteration_exact_match_acc": 0.5,
+  "transliteration_cer": 0.1213,
+  "e2e_devanagari_cer": 0.0512,
+  "e2e_translation_bleu": 28.96,
+  "e2e_translation_chrf": 49.17,
+  "avg_latency_transliteration_ms": 82.09,
+  "avg_latency_improvement_ms": 914.61,
+  "avg_latency_translation_ms": 102.8,
+  "total_cases": 40,
+  "transliteration_cases": 30,
+  "e2e_cases": 10
+}

@@ -1,0 +1,41 @@
+id,type,input,ref_transliteration,pred_transliteration,ref_improved,pred_improved,ref_translation,pred_translation,exact_match,cer_translit,bleu,chrf,latency_translit_s,latency_improve_s,latency_translate_s,error_category
+aksh_01,transliteration,pratap,प्रतप,प्रताप,,,,,0.0,0.2,,,0.318,,,ambiguous vowel length
+aksh_02,transliteration,ratiyo,रातियो,रतियो,,,,,0.0,0.1667,,,0.0283,,,ambiguous vowel length
+aksh_03,transliteration,choudhary,चौधरी,चौधरी,,,,,1.0,0.0,,,0.0324,,,none
+aksh_04,transliteration,winter,विंटर,विंटर,,,,,1.0,0.0,,,0.0295,,,none
+aksh_05,transliteration,watson,वॉटसन,वाटसन,,,,,0.0,0.2,,,0.0288,,,ambiguous vowel length
+aksh_06,transliteration,shaamkarib,शामकरीब,शामकरीब,,,,,1.0,0.0,,,0.036,,,none
+aksh_07,transliteration,mantripad,मंत्रीपद,मंत्रिपद,,,,,0.0,0.125,,,0.0385,,,ambiguous vowel length
+aksh_08,transliteration,judai,जुदाई,जुडाई,,,,,0.0,0.2,,,0.0252,,,ambiguous vowel length
+aksh_09,transliteration,dinah,दिनः,दिनाह,,,,,0.0,0.5,,,0.0251,,,ambiguous vowel length
+aksh_10,transliteration,sanyukt,संयुक्त,संयुक्त,,,,,1.0,0.0,,,0.0318,,,none
+aksh_11,transliteration,lace,लैस,लेस,,,,,0.0,0.3333,,,0.0221,,,ambiguous vowel length
+aksh_12,transliteration,laphz,लफ्ज,लाफ्ज,,,,,0.0,0.25,,,0.0254,,,ambiguous vowel length
+aksh_13,transliteration,respekting,रिस्पेक्टिंग,रिस्पेक्टिंग,,,,,1.0,0.0,,,0.0482,,,none
+aksh_14,transliteration,ashtamoortiyaan,अष्टमूर्तियाँ,अष्टमूर्तियाँ,,,,,1.0,0.0,,,0.0562,,,none
+aksh_15,transliteration,evm,ईवीेएम,ईवीएम,,,,,0.0,0.1667,,,0.0284,,,ambiguous vowel length
+aksh_16,transliteration,peachtree,पीचट्री,पीचट्री,,,,,1.0,0.0,,,0.0317,,,none
+aksh_17,transliteration,sanskari,संस्कारी,संस्कारी,,,,,1.0,0.0,,,0.0396,,,none
+aksh_18,transliteration,naivegh,नैवेद्य,नैवेघ,,,,,0.0,0.4286,,,0.0252,,,schwa deletion
+aksh_19,transliteration,kaalavan,कालवन,कालवन,,,,,1.0,0.0,,,0.0285,,,none
+aksh_20,transliteration,tapan,तपन,तपन,,,,,1.0,0.0,,,0.0217,,,none
+aksh_21,transliteration,rishtaanataa,रिश्तानाता,रिश्तानता,,,,,0.0,0.1,,,0.0385,,,ambiguous vowel length
+aksh_22,transliteration,ravel,रवैल,रावेल,,,,,0.0,0.5,,,0.0245,,,ambiguous vowel length
+aksh_23,transliteration,sataane,सताने,सताने,,,,,1.0,0.0,,,0.0284,,,none
+aksh_24,transliteration,majboori,मज़बूरी,मजबूरी,,,,,0.0,0.1429,,,0.0319,,,ambiguous vowel length
+aksh_25,transliteration,paathyakramon,पाठ्यक्रमों,पाठ्यक्रमों,,,,,1.0,0.0,,,0.0452,,,none
+aksh_26,transliteration,chaukiyan,चौकियां,चौकियां,,,,,1.0,0.0,,,0.0319,,,none
+aksh_27,transliteration,nmdc,एनएमडीसी,एनएमडीसी,,,,,1.0,0.0,,,0.0349,,,none
+aksh_28,transliteration,chhanysa,छांयसा,छांयसा,,,,,1.0,0.0,,,0.0316,,,none
+aksh_29,transliteration,kaavyoktiyaan,काव्योक्तियां,काव्योक्तियाँ,,,,,0.0,0.0769,,,0.0522,,,ambiguous vowel length
+aksh_30,transliteration,regal,रीगल,रेगल,,,,,0.0,0.25,,,0.0252,,,ambiguous vowel length
+e2e_01,end_to_end,mujhe kal subah meeting ke liye jaana hai,मुझे कल सुबह मीटिंग के लिए जाना है,मुझे कल सुबाह मीटिंग केई लिये जाना है,मुझे कल सुबह बैठक के लिए जाना है।,मुझे कल सुबह मीटिंग के लिए जाना है।,I have to go for the meeting tomorrow morning.,I have to go for the meeting tomorrow morning.,,0.1176,100.0,100.0,0.1808,3.1031,0.1447,none
+e2e_02,end_to_end,project ki deadline agle hafte tak extend ho gayi hai,प्रोजेक्ट की डेडलाइन अगले हफ्ते तक एक्सटेंड हो गई है,प्रोजेक्ट की डेडलाइन अगले हफ्ते तक एक्सटेंड हो गयी है,परियोजना की अंतिम तिथि अगले सप्ताह तक बढ़ा दी गई है।,प्रोजेक्ट की अंतिम तिथि आगले महीनों में विस्तारित हो गई है।,The project deadline has been extended until next week.,The deadline for the project has been extended over the coming months.,,0.0385,14.21,56.32,0.2597,0.8846,0.107,ambiguous vowel length
+e2e_03,end_to_end,kya yahan free WiFi connection available hai?,क्या यहाँ फ्री वाईफाई कनेक्शन अवेलेबल है?,क्या यहान फ्री वाइफाई कनेक्शन अवेलेबल है?,क्या यहाँ मुफ्त वाई-फाई कनेक्शन उपलब्ध है?,यहाँ फ्री-वाइफाई कनेक्शन उपलब्ध है?,Is free WiFi connection available here?,Is a free Wi-Fi connection available here?,,0.0488,38.26,85.78,0.1788,0.5677,0.0931,code-mixed English word
+e2e_04,end_to_end,kal main ghar par hi rahunga aur aaram karunga,कल मैं घर पर ही रहूंगा और आराम करूंगा,कल मैन घर पर ही रहूंगा और आराम करूंगा,कल मैं घर पर ही रहकर विश्राम करूँगा।,मैं घर पर बैठूंगा और अपने स्वास्थ्य को निश्चित करूंगा।,Tomorrow I will stay at home and rest.,I will sit at home and ensure my health.,,0.027,20.56,40.17,0.2001,0.8672,0.1022,translation drift
+e2e_05,end_to_end,main bahut der se aapka wait kar raha hoon,मैं बहुत देर से आपका वेट कर रहा हूँ,मैन बहुत डेर से आपका वेट कर रहा हूँ,मैं काफी देर से आपकी प्रतीक्षा कर रहा हूँ।,मैं अच्छी तरह से आपको खुशि प्रदान कर रहा हूँ।,I have been waiting for you for a long time.,I am well providing you with happiness.,,0.0571,5.0,15.08,0.1954,0.7066,0.0757,code-mixed English word
+e2e_06,end_to_end,bhai scene kya hai aaj shaam ka?,भाई सीन क्या है आज शाम का?,भाई सीन क्या है आज शाम का?,"मित्र, आज शाम की क्या योजना है?","आज शाम का, भाई?","Brother, what is the plan for this evening?","Tonight, brother?",,0.0,4.24,16.28,0.1406,0.253,0.0733,none
+e2e_07,end_to_end,tension mat lo sab jugaad ho jaayega,टेंशन मत लो सब जुगाड़ हो जाएगा,टेंशन मैट लो सब जुगाड़ हो जाएगा,"चिंता मत कीजिए, सब प्रबंध हो जाएगा।",तंत्र के मैटल लो सभी जुगाड़ यात्रा करेंगे।,"Don't worry, everything will be managed.",The metal looms of the system will travel all jugaad.,,0.0667,4.46,14.67,0.1739,0.6145,0.1272,ambiguous vowel length
+e2e_08,end_to_end,is course ki fees 25000 rupaye hai aur 3 mahine chalega,इस कोर्स की फीस २५००० रुपये है और ३ महीने चलेगा,इस कोर्स की फीस २५००० रुपये है और ३ महिने चलेगा,इस पाठ्यक्रम का शुल्क २५००० रुपये है और यह ३ महीने चलेगा।,इस पाठ्यक्रम की शुल्क २५००० रुपये है और ३ महिने लगेगी।,The fee for this course is 25000 rupees and it will run for 3 months.,"The course fee is ₹25,000 and will take 3 months.",,0.0213,11.65,33.27,0.2195,0.8207,0.1183,ambiguous vowel length
+e2e_09,end_to_end,kya aap bata sakte hain ki agla metro kab aayega?,क्या आप बता सकते हैं कि अगला मेट्रो कब आएगा?,क्या आप बाटा सकते हैं की अगला मेट्रो कब आयेगा?,क्या आप बता सकते हैं कि अगली मेट्रो रेल कब आएगी?,आप इसको जानते हैं कि अगला मेट्रो कब आएगा?,Can you tell me when the next metro will arrive?,Do you know when the next metro will come?,,0.1136,38.66,54.51,0.2345,0.6186,0.0932,ambiguous vowel length
+e2e_10,end_to_end,ye assignment submit karne ka aakhri time kya hai?,ये असाइनमेंट सबमिट करने का आखिरी टाइम क्या है?,ये असाइनमेंट सबमिट करने का आखरी टाइम क्या है?,यह सत्रीय कार्य जमा करने का अंतिम समय क्या है?,ये असाइनमेंट को जमा करने का आखरी समय क्या है?,What is the deadline to submit this assignment?,What is the last time to submit this assignment?,,0.0217,52.54,75.66,0.2353,0.71,0.0935,schwa deletion

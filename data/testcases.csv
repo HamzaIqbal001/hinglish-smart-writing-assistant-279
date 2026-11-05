@@ -1,0 +1,41 @@
+id,type,input,ref_transliteration,ref_improved,ref_translation,category
+aksh_01,transliteration,pratap,प्रतप,,,aksharantar_word
+aksh_02,transliteration,ratiyo,रातियो,,,aksharantar_word
+aksh_03,transliteration,choudhary,चौधरी,,,aksharantar_word
+aksh_04,transliteration,winter,विंटर,,,aksharantar_word
+aksh_05,transliteration,watson,वॉटसन,,,aksharantar_word
+aksh_06,transliteration,shaamkarib,शामकरीब,,,aksharantar_word
+aksh_07,transliteration,mantripad,मंत्रीपद,,,aksharantar_word
+aksh_08,transliteration,judai,जुदाई,,,aksharantar_word
+aksh_09,transliteration,dinah,दिनः,,,aksharantar_word
+aksh_10,transliteration,sanyukt,संयुक्त,,,aksharantar_word
+aksh_11,transliteration,lace,लैस,,,aksharantar_word
+aksh_12,transliteration,laphz,लफ्ज,,,aksharantar_word
+aksh_13,transliteration,respekting,रिस्पेक्टिंग,,,aksharantar_word
+aksh_14,transliteration,ashtamoortiyaan,अष्टमूर्तियाँ,,,aksharantar_word
+aksh_15,transliteration,evm,ईवीेएम,,,aksharantar_word
+aksh_16,transliteration,peachtree,पीचट्री,,,aksharantar_word
+aksh_17,transliteration,sanskari,संस्कारी,,,aksharantar_word
+aksh_18,transliteration,naivegh,नैवेद्य,,,aksharantar_word
+aksh_19,transliteration,kaalavan,कालवन,,,aksharantar_word
+aksh_20,transliteration,tapan,तपन,,,aksharantar_word
+aksh_21,transliteration,rishtaanataa,रिश्तानाता,,,aksharantar_word
+aksh_22,transliteration,ravel,रवैल,,,aksharantar_word
+aksh_23,transliteration,sataane,सताने,,,aksharantar_word
+aksh_24,transliteration,majboori,मज़बूरी,,,aksharantar_word
+aksh_25,transliteration,paathyakramon,पाठ्यक्रमों,,,aksharantar_word
+aksh_26,transliteration,chaukiyan,चौकियां,,,aksharantar_word
+aksh_27,transliteration,nmdc,एनएमडीसी,,,aksharantar_word
+aksh_28,transliteration,chhanysa,छांयसा,,,aksharantar_word
+aksh_29,transliteration,kaavyoktiyaan,काव्योक्तियां,,,aksharantar_word
+aksh_30,transliteration,regal,रीगल,,,aksharantar_word
+e2e_01,end_to_end,mujhe kal subah meeting ke liye jaana hai,मुझे कल सुबह मीटिंग के लिए जाना है,मुझे कल सुबह बैठक के लिए जाना है।,I have to go for the meeting tomorrow morning.,code_mixed_meeting
+e2e_02,end_to_end,project ki deadline agle hafte tak extend ho gayi hai,प्रोजेक्ट की डेडलाइन अगले हफ्ते तक एक्सटेंड हो गई है,परियोजना की अंतिम तिथि अगले सप्ताह तक बढ़ा दी गई है।,The project deadline has been extended until next week.,code_mixed_deadline
+e2e_03,end_to_end,kya yahan free WiFi connection available hai?,क्या यहाँ फ्री वाईफाई कनेक्शन अवेलेबल है?,क्या यहाँ मुफ्त वाई-फाई कनेक्शन उपलब्ध है?,Is free WiFi connection available here?,code_mixed_wifi
+e2e_04,end_to_end,kal main ghar par hi rahunga aur aaram karunga,कल मैं घर पर ही रहूंगा और आराम करूंगा,कल मैं घर पर ही रहकर विश्राम करूँगा।,Tomorrow I will stay at home and rest.,ambiguous_spelling_kal
+e2e_05,end_to_end,main bahut der se aapka wait kar raha hoon,मैं बहुत देर से आपका वेट कर रहा हूँ,मैं काफी देर से आपकी प्रतीक्षा कर रहा हूँ।,I have been waiting for you for a long time.,ambiguous_spelling_hoon
+e2e_06,end_to_end,bhai scene kya hai aaj shaam ka?,भाई सीन क्या है आज शाम का?,"मित्र, आज शाम की क्या योजना है?","Brother, what is the plan for this evening?",casual_slang_scene
+e2e_07,end_to_end,tension mat lo sab jugaad ho jaayega,टेंशन मत लो सब जुगाड़ हो जाएगा,"चिंता मत कीजिए, सब प्रबंध हो जाएगा।","Don't worry, everything will be managed.",casual_slang_jugaad
+e2e_08,end_to_end,is course ki fees 25000 rupaye hai aur 3 mahine chalega,इस कोर्स की फीस २५००० रुपये है और ३ महीने चलेगा,इस पाठ्यक्रम का शुल्क २५००० रुपये है और यह ३ महीने चलेगा।,The fee for this course is 25000 rupees and it will run for 3 months.,numbers_and_quantities
+e2e_09,end_to_end,kya aap bata sakte hain ki agla metro kab aayega?,क्या आप बता सकते हैं कि अगला मेट्रो कब आएगा?,क्या आप बता सकते हैं कि अगली मेट्रो रेल कब आएगी?,Can you tell me when the next metro will arrive?,question_inquiry
+e2e_10,end_to_end,ye assignment submit karne ka aakhri time kya hai?,ये असाइनमेंट सबमिट करने का आखिरी टाइम क्या है?,यह सत्रीय कार्य जमा करने का अंतिम समय क्या है?,What is the deadline to submit this assignment?,question_academic
